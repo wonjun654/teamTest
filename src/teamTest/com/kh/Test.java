@@ -1,11 +1,20 @@
+
 package teamTest.com.kh;
 
 public class Test {
 
 	public static void main(String[] args) {
-		System.out.println("ÃÖ¿øÁØ");
-		System.out.println("ÀÌ¿ø°æ ÇßÀ½ ~~~~");
+		System.out.println("ï¿½Ö¿ï¿½ï¿½ï¿½");
+		System.out.println("ï¿½Ì¿ï¿½ï¿½ ï¿½ï¿½ï¿½ ~~~~");
+
+
+		System.out.println("ksc");
+
+		System.out.println("ÃƒÃ–Â¿Ã¸ÃÃ˜");
+		System.out.println("ÃƒÃ–Â¿Ã¸ÃÃ˜ Â¼Ã¶ÃÂ¤");
+
 
 	}
 
 }
+
