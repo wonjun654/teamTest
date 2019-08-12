@@ -7,5 +7,7 @@ public class AddressMain {
 		Example example = new Example();
 		example.input();
 		example.output();
+		
+		
 	}
 }
